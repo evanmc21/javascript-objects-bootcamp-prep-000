@@ -1,1 +1,1 @@
-var playlist = {Beyonce: 'Sorry'};
+var playlist = {artistName: 'songTitle'};
